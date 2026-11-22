@@ -1,0 +1,19 @@
+{
+  "name": "1-module",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "\"https://github.com/vishalkumarjha192/MERN-stack\""
+  },
+  "license": "ISC",
+  "author": "vishal",
+  "type": "commonjs",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "module1": "node module1.js",
+    "module2": "node module2.js",
+    "module3": "node module3.js"
+  }
+}
